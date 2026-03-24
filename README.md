@@ -47,7 +47,9 @@ Enter Previous Meter Reading: 100
 Enter Current Meter Reading: 150
 
 ================================
+
        OFFICIAL INVOICE
+       
 ==============================
 
 Units Consumed: 50.00 kWh
