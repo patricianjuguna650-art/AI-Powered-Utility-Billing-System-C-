@@ -51,7 +51,9 @@ Enter Current Meter Reading: 150
 ==============================
 
 Units Consumed: 50.00 kWh
+
 Base Amount:    Ksh 790.00
+
 VAT (16%):      Ksh 126.40
 
 ------------------------------
