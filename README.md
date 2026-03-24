@@ -66,9 +66,13 @@ TOTAL PAYABLE:  Ksh 916.40
 ==============================
 
 📌 Future Improvements
+
 Add customer database
+
 Add usage prediction (AI/ML)
+
 Integrate graphical interface
+
 Store billing history
 
 
