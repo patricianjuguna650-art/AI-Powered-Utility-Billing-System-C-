@@ -56,8 +56,11 @@ Base Amount:    Ksh 790.00
 
 VAT (16%):      Ksh 126.40
 
+
 ------------------------------
+
 TOTAL PAYABLE:  Ksh 916.40
+
 ==============================
 
 📌 Future Improvements
